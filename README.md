@@ -29,10 +29,10 @@ This project allows users to manage their bank accounts, check real-time balance
 
 ## ⚙️ Installation & Setup Process
 
-# Step 1: Clone the repository
+### Step 1: Clone the repository
 git clone [https://github.com/FahmidaMitu/bank-management.git](https://github.com/FahmidaMitu/bank-management.git)
 
-# Step 2: Navigate into the project directory
+### Step 2: Navigate into the project directory
 cd bank-management
 
 # Step 3: Install all project dependencies
