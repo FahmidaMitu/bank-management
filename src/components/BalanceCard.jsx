@@ -7,7 +7,7 @@ const BalanceCard = () => {
   return (
     <div className="card">
       <h3>Account Overview</h3>
-      <p style={{ color: '#94a3b8', margin: '0.5rem 0' }}>Account Holder: <strong>Jane Doe</strong></p>
+      <p style={{ color: '#94a3b8', margin: '0.5rem 0' }}>Account Holder: <strong>Fahmida Sultana</strong></p>
       <p style={{ color: '#94a3b8', marginBottom: '1rem' }}>Account Number: <strong>123456789</strong></p>
 
       <div style={{ backgroundColor: '#0f172a', padding: '1rem', borderRadius: '0.5rem', marginBottom: '1rem' }}>
