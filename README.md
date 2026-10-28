@@ -35,17 +35,17 @@ git clone [https://github.com/FahmidaMitu/bank-management.git](https://github.co
 ### Step 2: Navigate into the project directory
 cd bank-management
 
-# Step 3: Install all project dependencies
+### Step 3: Install all project dependencies
 npm install
 
-# Step 4: Install React Router DOM for navigation
+### Step 4: Install React Router DOM for navigation
 npm install react-router-dom
 
-# Step 5: Start the local Vite development server
+### Step 5: Start the local Vite development server
 npm run dev
 
-# Step 6: Open the application in your browser
-# Visit http://localhost:5173
+### Step 6: Open the application in your browser
+#### Visit http://localhost:5173
 
 ---
 
