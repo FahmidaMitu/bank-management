@@ -14,8 +14,8 @@ export const BankProvider = ({ children }) => {
     const savedTransactions = localStorage.getItem('bank_transactions');
     return savedTransactions ? JSON.parse(savedTransactions) : [
       { id: 1, type: 'Deposit', amount: 100.0, date: '2026-02-18' },
-      { id: 2, type: 'Deposit', amount: 7000.0, date: '2026-02-18' },
-      { id: 3, type: 'Withdrawal', amount: 2500.0, date: '2026-05-18' },
+      { id: 2, type: 'Deposit', amount: 7000.0, date: '2026-02-15' },
+      { id: 3, type: 'Withdrawal', amount: 2500.0, date: '2026-05-13' },
     ];
   });
 
